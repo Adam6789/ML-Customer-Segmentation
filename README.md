@@ -6,7 +6,8 @@ Provides capabilities to train a model and apply a model to predict images.
 ```
 git clone https://github.com/Adam6789/customer-segmentation.git
 cd customer-segmentation
-python train.py <image-path> <model>
+jupyter notebook
+open Identify_Customer_Segments.ipynb in browser
 ```
 
 # License
